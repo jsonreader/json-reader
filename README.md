@@ -4,7 +4,7 @@ JSONReader
 
 A lightweight and easy-to-use JSON reader for viewing, reading, and working with JSON data.
 
-🌐 Try JSONReader online: {"fallbackMarkdown":"jsonreaderonline.com","reference":{"matched_text":"","prefix":null,"start_idx":296,"end_idx":351,"safe_urls":[],"refs":[],"alt":"jsonreaderonline.com","prompt_text":"jsonreaderonline.com","type":"url","title":"jsonreaderonline.com","item":{"title":"jsonreaderonline.com","url":"https://jsonreaderonline.com?utm_source=chatgpt.com","attribution":"jsonreaderonline.com","pub_date":null,"snippet":null,"attribution_segments":null,"supporting_websites":null,"refs":[],"hue":null,"attributions":null},"layout":null,"logo":null},"showLoginRequiredCard":false}
+
 
 ✨ Features
 📄 Read and view JSON data online
@@ -17,7 +17,6 @@ A lightweight and easy-to-use JSON reader for viewing, reading, and working with
 
 You can use JSONReader directly from your browser:
 
-👉 {"fallbackMarkdown":"https://jsonreaderonline.com","reference":{"matched_text":"","prefix":null,"start_idx":691,"end_idx":754,"safe_urls":[],"refs":[],"alt":"https://jsonreaderonline.com","prompt_text":"https://jsonreaderonline.com","type":"url","title":"https://jsonreaderonline.com","item":{"title":"https://jsonreaderonline.com","url":"https://jsonreaderonline.com?utm_source=chatgpt.com","attribution":"jsonreaderonline.com","pub_date":null,"snippet":null,"attribution_segments":null,"supporting_websites":null,"refs":[],"hue":null,"attributions":null},"layout":null,"logo":null},"showLoginRequiredCard":false}
 
 Paste your JSON and start exploring it instantly.
 
@@ -53,7 +52,6 @@ If you find JSONReader useful, consider giving the repository a ⭐ on GitHub.
 
 You can also try the online version:
 
-🌐 {"fallbackMarkdown":"jsonreaderonline.com","reference":{"matched_text":"","prefix":null,"start_idx":1768,"end_idx":1823,"safe_urls":[],"refs":[],"alt":"jsonreaderonline.com","prompt_text":"jsonreaderonline.com","type":"url","item":{"title":"jsonreaderonline.com","url":"https://jsonreaderonline.com?utm_source=chatgpt.com","attribution":"jsonreaderonline.com","pub_date":null,"snippet":null,"attribution_segments":null,"supporting_websites":null,"refs":[],"hue":null,"attributions":null},"logo":null,"title":"jsonreaderonline.com","layout":null},"showLoginRequiredCard":false}
 
 📄 License
 
@@ -61,4 +59,4 @@ See the LICENSE file for licensing information.
 
 JSONReader — Read JSON easily, directly in your browser.
 
-🌐 {"fallbackMarkdown":"jsonreaderonline.com","reference":{"matched_text":"","prefix":null,"start_idx":1961,"end_idx":2016,"safe_urls":[],"refs":[],"alt":"jsonreaderonline.com","prompt_text":"jsonreaderonline.com","type":"url","title":"jsonreaderonline.com","item":{"title":"jsonreaderonline.com","url":"https://jsonreaderonline.com?utm_source=chatgpt.com","attribution":"jsonreaderonline.com","pub_date":null,"snippet":null,"attribution_segments":null,"supporting_websites":null,"refs":[],"hue":null,"attributions":null},"layout":null,"logo":null},"showLoginRequiredCard":false}
+
